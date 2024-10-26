@@ -1,0 +1,4825 @@
+[
+  {
+    "image": "\/data\/upload\/2\/7c656cda-280ad115be6c0a4e0dc644f080e58821.jpg",
+    "id": 98,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Regular Fit"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2024-07-06T19:05:15.177962Z",
+    "updated_at": "2024-07-06T19:05:15.178605Z",
+    "lead_time": 91.255
+  },
+  {
+    "image": "\/data\/upload\/2\/f3ac7184-5a5ba35d731ddfa2ad35dd946938b7fb.jpg",
+    "id": 99,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2024-07-06T19:06:36.041914Z",
+    "updated_at": "2024-07-06T19:06:36.041914Z",
+    "lead_time": 75.796
+  },
+  {
+    "image": "\/data\/upload\/2\/8495bca2-f31378d959b346290d5deae8f6d36603.jpg",
+    "id": 100,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2024-07-06T19:11:46.943978Z",
+    "updated_at": "2024-07-06T19:11:46.943978Z",
+    "lead_time": 307.445
+  },
+  {
+    "image": "\/data\/upload\/2\/a6a4e276-old-money-look-51-539x1024.jpg",
+    "id": 101,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Midi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2024-07-06T19:13:47.530763Z",
+    "updated_at": "2024-07-06T19:13:47.530763Z",
+    "lead_time": 116.783
+  },
+  {
+    "image": "\/data\/upload\/2\/98e340e2-old-money-look-48-539x1024.jpg",
+    "id": 102,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Color Palette",
+            "Cool Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Regular Fit"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2024-07-06T19:15:10.097037Z",
+    "updated_at": "2024-07-06T19:15:10.097037Z",
+    "lead_time": 66.044
+  },
+  {
+    "image": "\/data\/upload\/2\/ad25d307-old-money-look-42-539x1024.jpg",
+    "id": 103,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Dress"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2024-07-06T19:17:10.463849Z",
+    "updated_at": "2024-07-06T20:21:22.593768Z",
+    "lead_time": 111.604
+  },
+  {
+    "image": "\/data\/upload\/2\/9eb5152a-old-money-look-40-539x1024.jpg",
+    "id": 104,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Dress"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Sleeve Type",
+            "Off Shoulder"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2024-07-06T19:24:48.160220Z",
+    "updated_at": "2024-07-06T20:21:11.086992Z",
+    "lead_time": 499.78999999999996
+  },
+  {
+    "image": "\/data\/upload\/2\/4d6bbeab-old-money-look-38-539x1024.jpg",
+    "id": 105,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Knee-Length"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2024-07-06T19:26:39.938967Z",
+    "updated_at": "2024-07-06T19:26:39.938967Z",
+    "lead_time": 105.195
+  },
+  {
+    "image": "\/data\/upload\/2\/19c55165-old-money-look-35-539x1024.jpg",
+    "id": 106,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Regular Fit"
+          ],
+          [
+            "Length",
+            "Short"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2024-07-06T19:31:00.763582Z",
+    "updated_at": "2024-07-06T19:31:00.763582Z",
+    "lead_time": 147.43400000000003
+  },
+  {
+    "image": "\/data\/upload\/2\/9b4b13c8-old-money-look-33-539x1024.jpg",
+    "id": 107,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Dress"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2024-07-06T19:33:03.802755Z",
+    "updated_at": "2024-07-06T20:19:47.623316Z",
+    "lead_time": 129.79
+  },
+  {
+    "image": "\/data\/upload\/2\/e0c6ff25-old-money-look-27-539x1024.jpg",
+    "id": 108,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Color Palette",
+            "Warm Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2024-07-06T19:35:00.588337Z",
+    "updated_at": "2024-07-06T19:35:00.588337Z",
+    "lead_time": 112.749
+  },
+  {
+    "image": "\/data\/upload\/2\/fadda58e-old-money-look-19-539x1024.jpg",
+    "id": 109,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2024-07-06T19:36:13.249801Z",
+    "updated_at": "2024-07-06T19:36:13.249801Z",
+    "lead_time": 67.384
+  },
+  {
+    "image": "\/data\/upload\/2\/56e2bcd4-old-money-look-11-539x1024.jpg",
+    "id": 110,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Shorts"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Short"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2024-07-06T19:39:22.050414Z",
+    "updated_at": "2024-07-06T19:39:22.050414Z",
+    "lead_time": 120.837
+  },
+  {
+    "image": "\/data\/upload\/2\/a8896cf3-old-money-look-9-539x1024.jpg",
+    "id": 111,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Turtleneck"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2024-07-06T19:40:16.994281Z",
+    "updated_at": "2024-07-06T20:19:17.166696Z",
+    "lead_time": 59.488
+  },
+  {
+    "image": "\/data\/upload\/2\/653c2719-old-money-look-6-539x1024.jpg",
+    "id": 112,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 21,
+    "created_at": "2024-07-06T19:46:22.624260Z",
+    "updated_at": "2024-07-06T20:19:05.628957Z",
+    "lead_time": 376.651
+  },
+  {
+    "image": "\/data\/upload\/2\/49f53245-old-money-look-5-539x1024.jpg",
+    "id": 113,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Shorts"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Textured"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Short"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 22,
+    "created_at": "2024-07-06T19:48:36.738883Z",
+    "updated_at": "2024-07-06T19:48:36.738883Z",
+    "lead_time": 79.18299999999999
+  },
+  {
+    "image": "\/data\/upload\/2\/f18cbc2a-old-money-look-4-539x1024.jpg",
+    "id": 114,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Regular Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2024-07-06T19:50:08.749926Z",
+    "updated_at": "2024-07-06T20:18:48.896483Z",
+    "lead_time": 98.093
+  },
+  {
+    "image": "\/data\/upload\/2\/eea3daf6-4ceb152aa6c27f546d0a8289aa4d583a.jpg",
+    "id": 115,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Color Palette",
+            "Cool Tones"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Knee-Length"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2024-07-06T19:52:44.733633Z",
+    "updated_at": "2024-07-06T19:52:44.733633Z",
+    "lead_time": 152.782
+  },
+  {
+    "image": "\/data\/upload\/2\/6fe5ab63-44098d90ddd9c2586b0287b69bd3fb91.jpg",
+    "id": 116,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "3\/4 Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2024-07-06T19:55:26.926397Z",
+    "updated_at": "2024-07-06T20:18:32.443889Z",
+    "lead_time": 168.217
+  },
+  {
+    "image": "\/data\/upload\/2\/7041ed76-4ee379780681b96b2419f08f2bb14f4d.jpg",
+    "id": 117,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Cool Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2024-07-06T20:07:38.397937Z",
+    "updated_at": "2024-07-06T20:18:21.307413Z",
+    "lead_time": 741.474
+  },
+  {
+    "image": "\/data\/upload\/2\/992f01eb-16e23edb679eb5a79aa1a40bf504fb1b.jpg",
+    "id": 118,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Cloth Type\/Material",
+            "Wool"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2024-07-06T20:09:01.583795Z",
+    "updated_at": "2024-07-06T20:18:05.245521Z",
+    "lead_time": 95.9
+  },
+  {
+    "image": "\/data\/upload\/2\/519ef7de-ef97385a907229479147e73d6cff741b.jpg",
+    "id": 119,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Neckline Type",
+            "Turtleneck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Midi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2024-07-06T20:12:35.328827Z",
+    "updated_at": "2024-07-06T20:12:35.328827Z",
+    "lead_time": 119.75999999999999
+  },
+  {
+    "image": "\/data\/upload\/2\/310180df-c5b3d92bf4f90d92b4d8911e14212c51.jpg",
+    "id": 120,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Shorts"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Short"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2024-07-06T20:14:11.329360Z",
+    "updated_at": "2024-07-06T20:14:11.329360Z",
+    "lead_time": 87.481
+  },
+  {
+    "image": "\/data\/upload\/2\/2ccd948a-9928bb658c554714cf97c13e91131861.jpg",
+    "id": 121,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2024-07-06T20:21:48.811825Z",
+    "updated_at": "2024-07-06T20:21:48.811825Z",
+    "lead_time": 147.88400000000001
+  },
+  {
+    "image": "\/data\/upload\/2\/531a7a25-123ddde25e04e73377db03ff578aa2f0.jpg",
+    "id": 122,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Boat Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Off Shoulder"
+          ],
+          [
+            "Fit Type",
+            "Regular Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2024-07-06T20:23:23.438136Z",
+    "updated_at": "2024-07-06T20:23:23.438136Z",
+    "lead_time": 93.104
+  },
+  {
+    "image": "\/data\/upload\/2\/e27b2a1b-147815406634b2aa20486db6b2075c31.jpg",
+    "id": 123,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2024-07-06T20:24:22.936987Z",
+    "updated_at": "2024-07-06T20:24:22.936987Z",
+    "lead_time": 57.897
+  },
+  {
+    "image": "\/data\/upload\/2\/63a2830f-a3171aa162e6d00c5c0c7d5dafce7f82.jpg",
+    "id": 124,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Short"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2024-07-06T20:25:26.773766Z",
+    "updated_at": "2024-07-06T20:25:26.773766Z",
+    "lead_time": 62.405
+  },
+  {
+    "image": "\/data\/upload\/2\/009f1998-24cc6df8561c8c23a22071033b84481c.jpg",
+    "id": 125,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2024-07-06T20:27:31.910407Z",
+    "updated_at": "2024-07-06T20:27:31.910407Z",
+    "lead_time": 119.491
+  },
+  {
+    "image": "\/data\/upload\/2\/0ed156aa-83d430aae8522fb095856c8ff922d675.jpg",
+    "id": 126,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Shorts"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Short"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2024-07-06T20:30:26.759833Z",
+    "updated_at": "2024-07-06T20:39:19.343291Z",
+    "lead_time": 177.776
+  },
+  {
+    "image": "\/data\/upload\/2\/4d1d3368-c4611c5c1bfffda7b06e03577b30db5e.jpg",
+    "id": 127,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2024-07-06T20:31:52.707764Z",
+    "updated_at": "2024-07-06T20:31:52.707764Z",
+    "lead_time": 83.546
+  },
+  {
+    "image": "\/data\/upload\/2\/aa8a024c-5cc83b77cd91c74520ae69c376b5c916.jpg",
+    "id": 128,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2024-07-06T20:32:48.398357Z",
+    "updated_at": "2024-07-06T20:32:48.398357Z",
+    "lead_time": 53.379
+  },
+  {
+    "image": "\/data\/upload\/2\/7c3427ad-760288799ccead6bdcdc6a760fca5524.jpg",
+    "id": 129,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Dress"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Sleeve Type",
+            "Off Shoulder"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2024-07-06T20:41:16.298146Z",
+    "updated_at": "2024-07-06T20:41:16.298146Z",
+    "lead_time": 506.015
+  },
+  {
+    "image": "\/data\/upload\/2\/68c134aa-6bfe0bf16335119e3641e68c36348701.jpg",
+    "id": 130,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2024-07-06T20:43:22.621209Z",
+    "updated_at": "2024-07-06T20:43:22.621209Z",
+    "lead_time": 105.691
+  },
+  {
+    "image": "\/data\/upload\/2\/24a51627-a712bd5362d9ac4a23b59f9c76ab3348.jpg",
+    "id": 131,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2024-07-06T20:45:57.218189Z",
+    "updated_at": "2024-07-06T20:45:57.218189Z",
+    "lead_time": 145.316
+  },
+  {
+    "image": "\/data\/upload\/2\/a190a789-826b9ee93ce0aa12b374e9fcffac449c.jpg",
+    "id": 132,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2024-07-06T20:47:38.504846Z",
+    "updated_at": "2024-07-06T20:47:38.504846Z",
+    "lead_time": 99.007
+  },
+  {
+    "image": "\/data\/upload\/2\/01755cbc-85bf34e88a960ff92aa46210c0a860ff.jpg",
+    "id": 133,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Short"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2024-07-06T20:48:42.719640Z",
+    "updated_at": "2024-07-06T20:48:42.719640Z",
+    "lead_time": 59.185
+  },
+  {
+    "image": "\/data\/upload\/2\/439f60c3-0df9ab9d4d25e3cdd41a9c9bb09855cc.jpg",
+    "id": 134,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Vibrant"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Turtleneck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2024-07-06T20:50:36.932648Z",
+    "updated_at": "2024-07-06T20:50:36.932648Z",
+    "lead_time": 112.317
+  },
+  {
+    "image": "\/data\/upload\/2\/54058257-5b2fa09710f0e07d0c7842224820e553.jpg",
+    "id": 135,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Short"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 44,
+    "created_at": "2024-07-06T20:52:26.606827Z",
+    "updated_at": "2024-07-06T20:52:26.606827Z",
+    "lead_time": 107.782
+  },
+  {
+    "image": "\/data\/upload\/2\/ec99e441-f8379d77390cecd0d4f177903b99a4d1.jpg",
+    "id": 136,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Turtleneck"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 45,
+    "created_at": "2024-07-06T20:53:48.332599Z",
+    "updated_at": "2024-07-06T20:53:48.332599Z",
+    "lead_time": 78.189
+  },
+  {
+    "image": "\/data\/upload\/2\/c7bf5ffd-439b4a2143b47129c85bde9932daeedb.jpg",
+    "id": 137,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 46,
+    "created_at": "2024-07-06T20:55:18.586546Z",
+    "updated_at": "2024-07-06T20:55:18.586546Z",
+    "lead_time": 87.459
+  },
+  {
+    "image": "\/data\/upload\/2\/5f837548-53551c638ed8deda8abddc4553d27eaf.jpg",
+    "id": 138,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Clothing Item",
+            "Dress"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 47,
+    "created_at": "2024-07-06T20:58:02.081067Z",
+    "updated_at": "2024-07-06T20:58:02.081067Z",
+    "lead_time": 160.26
+  },
+  {
+    "image": "\/data\/upload\/2\/1cb1bb98-f5ad48613e250049442e7a2863452508.jpg",
+    "id": 139,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Cool Tones"
+          ],
+          [
+            "Print Type",
+            "Textured"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 48,
+    "created_at": "2024-07-06T20:59:26.640285Z",
+    "updated_at": "2024-07-06T20:59:26.640285Z",
+    "lead_time": 82.888
+  },
+  {
+    "image": "\/data\/upload\/2\/9f141648-8f7bb05899d5004aeeabb58892597183.jpg",
+    "id": 140,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 49,
+    "created_at": "2024-07-06T21:01:27.308685Z",
+    "updated_at": "2024-07-06T21:01:27.308685Z",
+    "lead_time": 119.364
+  },
+  {
+    "image": "\/data\/upload\/2\/3ce95cd2-d9cd447b04bd663e89b060060d8e71d6.jpg",
+    "id": 141,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 50,
+    "created_at": "2024-07-06T21:02:37.653699Z",
+    "updated_at": "2024-07-06T21:02:37.653699Z",
+    "lead_time": 67.075
+  },
+  {
+    "image": "\/data\/upload\/2\/727b052e-975eb9d27dd8022e42c02edd6f3e8884.jpg",
+    "id": 142,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 51,
+    "created_at": "2024-07-06T21:04:09.923101Z",
+    "updated_at": "2024-07-06T21:04:09.923101Z",
+    "lead_time": 89.253
+  },
+  {
+    "image": "\/data\/upload\/2\/35024984-0905c0f8b2722d9d4a0f7b7fb8fa2700.jpg",
+    "id": 143,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Dress"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Turtleneck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 52,
+    "created_at": "2024-07-06T21:05:21.193068Z",
+    "updated_at": "2024-07-06T21:05:21.193068Z",
+    "lead_time": 69.394
+  },
+  {
+    "image": "\/data\/upload\/2\/90d31e68-e8e23f9cb9c1867c17bfccdbe4713da2.jpg",
+    "id": 144,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Turtleneck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 53,
+    "created_at": "2024-07-06T21:07:19.818789Z",
+    "updated_at": "2024-07-06T21:07:26.040745Z",
+    "lead_time": 123.038
+  },
+  {
+    "image": "\/data\/upload\/2\/850d98db-e93cfa68424b2b5acaa1f0b2c72d3a76.jpg",
+    "id": 145,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 54,
+    "created_at": "2024-07-06T21:08:18.838494Z",
+    "updated_at": "2024-07-06T21:08:18.838494Z",
+    "lead_time": 51.019
+  },
+  {
+    "image": "\/data\/upload\/2\/e7aa5916-0a5ad9f1ba81603613f2ec5184d0739b.jpg",
+    "id": 146,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Color Palette",
+            "Pastels"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 55,
+    "created_at": "2024-07-06T21:09:27.583062Z",
+    "updated_at": "2024-07-06T21:09:27.583062Z",
+    "lead_time": 67.264
+  },
+  {
+    "image": "\/data\/upload\/2\/30ea326a-02576b9e6bbd36228a810b85597e41c0.jpg",
+    "id": 147,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Skirt"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Print Type",
+            "Textured"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 56,
+    "created_at": "2024-07-06T21:13:13.869062Z",
+    "updated_at": "2024-07-06T21:13:13.869062Z",
+    "lead_time": 223.187
+  },
+  {
+    "image": "\/data\/upload\/2\/79148235-c121f01c9fec1b76f3ce1688be19fbff.jpg",
+    "id": 148,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 57,
+    "created_at": "2024-07-06T21:13:58.342835Z",
+    "updated_at": "2024-07-06T21:13:58.342835Z",
+    "lead_time": 42.805
+  },
+  {
+    "image": "\/data\/upload\/2\/8b989d5d-7c9c3c6e3acf556d22922a2fe605a116.jpg",
+    "id": 149,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 58,
+    "created_at": "2024-07-06T21:15:10.032956Z",
+    "updated_at": "2024-07-06T21:15:10.032956Z",
+    "lead_time": 59.08
+  },
+  {
+    "image": "\/data\/upload\/2\/f5680ff6-a8dc10b24bbef31b77f8da854800e2a6.jpg",
+    "id": 150,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Female"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 59,
+    "created_at": "2024-07-06T21:15:57.122575Z",
+    "updated_at": "2024-07-06T21:15:57.122575Z",
+    "lead_time": 45.811
+  },
+  {
+    "image": "\/data\/upload\/2\/3fae0b0a-7dd40087ff89be9955f25f548d89a0df.jpg",
+    "id": 151,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Shorts"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Tailored Fit"
+          ],
+          [
+            "Length",
+            "Short"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 60,
+    "created_at": "2024-07-06T21:16:57.809675Z",
+    "updated_at": "2024-07-06T21:16:57.809675Z",
+    "lead_time": 59.365
+  },
+  {
+    "image": "\/data\/upload\/2\/c9a3bbb3-b510a476faca8c7ac4602d286b7b99d9.jpg",
+    "id": 152,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 61,
+    "created_at": "2024-07-06T21:17:58.876300Z",
+    "updated_at": "2024-07-06T21:17:58.876300Z",
+    "lead_time": 59.611
+  },
+  {
+    "image": "\/data\/upload\/2\/d8e2335a-7d5a3f355ca7674c2eaad3706c700892.jpg",
+    "id": 153,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 62,
+    "created_at": "2024-07-06T21:18:44.385444Z",
+    "updated_at": "2024-07-06T21:18:44.385444Z",
+    "lead_time": 43.118
+  },
+  {
+    "image": "\/data\/upload\/2\/6d1addf5-5b37569c3cfe4cf80ac25ccd29d7f4f4.jpg",
+    "id": 154,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 63,
+    "created_at": "2024-07-06T21:20:22.421466Z",
+    "updated_at": "2024-07-06T21:20:22.421466Z",
+    "lead_time": 96.466
+  },
+  {
+    "image": "\/data\/upload\/2\/0e0a510d-75f9c23b8c0782b3ea68b4f409f07c12.jpg",
+    "id": 155,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 64,
+    "created_at": "2024-07-06T21:22:17.862208Z",
+    "updated_at": "2024-07-06T21:22:17.862208Z",
+    "lead_time": 113.746
+  },
+  {
+    "image": "\/data\/upload\/2\/7dd113a1-ca5e4074c9c534690374a7ec24bd02f6.jpg",
+    "id": 157,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Regular Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 65,
+    "created_at": "2024-07-06T21:23:44.241748Z",
+    "updated_at": "2024-07-06T21:23:44.241748Z",
+    "lead_time": 75.612
+  },
+  {
+    "image": "\/data\/upload\/2\/a4c2eb41-b399218d6d4f88b8b6f4c1667b9bf905.jpg",
+    "id": 158,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 66,
+    "created_at": "2024-07-06T21:25:31.873547Z",
+    "updated_at": "2024-07-06T21:25:31.873547Z",
+    "lead_time": 106.203
+  },
+  {
+    "image": "\/data\/upload\/2\/7c362e26-7886c415bcaf9cbf9cd28a3a7668301e.jpg",
+    "id": 159,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Bold"
+          ],
+          [
+            "Print Type",
+            "Textured"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 67,
+    "created_at": "2024-07-06T21:27:28.295401Z",
+    "updated_at": "2024-07-06T21:27:28.295401Z",
+    "lead_time": 114.081
+  },
+  {
+    "image": "\/data\/upload\/2\/f17e17d7-27456cebf665e22c02d885a33b2b2363.jpg",
+    "id": 160,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Print Type",
+            "Textured"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 68,
+    "created_at": "2024-07-06T21:28:58.231357Z",
+    "updated_at": "2024-07-06T21:28:58.231357Z",
+    "lead_time": 88.277
+  },
+  {
+    "image": "\/data\/upload\/2\/13506edb-5522543662fd4738df22beac8be1d47c.jpg",
+    "id": 161,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Textured"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 69,
+    "created_at": "2024-07-06T21:30:10.150790Z",
+    "updated_at": "2024-07-06T21:30:10.150790Z",
+    "lead_time": 69.917
+  },
+  {
+    "image": "\/data\/upload\/2\/932e428c-923a90784d183b4377f572aaf3fa2f04.jpg",
+    "id": 162,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Cloth Type\/Material",
+            "Wool"
+          ],
+          [
+            "Color Palette",
+            "Classic and Elegant"
+          ],
+          [
+            "Print Type",
+            "Textured"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 70,
+    "created_at": "2024-07-06T21:31:54.285902Z",
+    "updated_at": "2024-07-06T21:31:54.285902Z",
+    "lead_time": 102.471
+  },
+  {
+    "image": "\/data\/upload\/2\/5b447caa-04e2f74096bc53669e73a187ac0b30a1.jpg",
+    "id": 163,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 71,
+    "created_at": "2024-07-06T21:32:53.171005Z",
+    "updated_at": "2024-07-06T21:32:53.171005Z",
+    "lead_time": 57.347
+  },
+  {
+    "image": "\/data\/upload\/2\/bf420b1a-836aefe20680abf61e691f1d1a0c3b3e.jpg",
+    "id": 164,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Cool Tones"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 72,
+    "created_at": "2024-07-06T21:33:59.646155Z",
+    "updated_at": "2024-07-06T21:33:59.646155Z",
+    "lead_time": 63.069
+  },
+  {
+    "image": "\/data\/upload\/2\/8105eb64-b07860e4f27a62bb20017a16d0ccd5bf.jpg",
+    "id": 165,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Shorts"
+          ],
+          [
+            "Color Palette",
+            "Pastels"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Short"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 73,
+    "created_at": "2024-07-06T21:34:57.194738Z",
+    "updated_at": "2024-07-06T21:34:57.194738Z",
+    "lead_time": 55.959
+  },
+  {
+    "image": "\/data\/upload\/2\/28b2ebec-4db1b2aa9028a0dd843f4b3bd45f3df7.jpg",
+    "id": 166,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Striped"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 74,
+    "created_at": "2024-07-06T21:35:47.363086Z",
+    "updated_at": "2024-07-06T21:35:47.363086Z",
+    "lead_time": 48.129
+  },
+  {
+    "image": "\/data\/upload\/2\/7c86d173-2689ddb47a35af914d3e57936433ceee.jpg",
+    "id": 168,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Tight Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 75,
+    "created_at": "2024-07-06T21:38:14.403263Z",
+    "updated_at": "2024-07-06T21:38:14.403263Z",
+    "lead_time": 112.643
+  },
+  {
+    "image": "\/data\/upload\/2\/f3f658f6-3a13938316023143e4008d88df092681.jpg",
+    "id": 169,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "3\/4 Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 76,
+    "created_at": "2024-07-06T21:39:20.235336Z",
+    "updated_at": "2024-07-06T21:39:20.235336Z",
+    "lead_time": 62.882
+  },
+  {
+    "image": "\/data\/upload\/2\/f48d9097-f8c29bbc5d7ec9574871bed53e40382d.jpg",
+    "id": 170,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Warm Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 77,
+    "created_at": "2024-07-06T21:40:24.635081Z",
+    "updated_at": "2024-07-06T21:40:24.635081Z",
+    "lead_time": 62.857
+  },
+  {
+    "image": "\/data\/upload\/2\/548845fe-167eae5945920d47c47af6b4f0139a1e.jpg",
+    "id": 171,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Color Palette",
+            "Cool Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 78,
+    "created_at": "2024-07-06T21:42:39.744575Z",
+    "updated_at": "2024-07-06T21:42:39.744575Z",
+    "lead_time": 133.332
+  },
+  {
+    "image": "\/data\/upload\/2\/77034052-2e4a284fd49933ea0cfd2e8049edc5b2.jpg",
+    "id": 172,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 79,
+    "created_at": "2024-07-06T21:44:50.998845Z",
+    "updated_at": "2024-07-06T21:44:50.998845Z",
+    "lead_time": 128.683
+  },
+  {
+    "image": "\/data\/upload\/2\/d42f4b3c-eb659a85419390d331cca94275397108.jpg",
+    "id": 173,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 80,
+    "created_at": "2024-07-06T21:46:58.066732Z",
+    "updated_at": "2024-07-06T21:46:58.066732Z",
+    "lead_time": 123.909
+  },
+  {
+    "image": "\/data\/upload\/2\/1bae51b1-07ab1aea4c2263dbb145be1610fa3d4b.jpg",
+    "id": 174,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 81,
+    "created_at": "2024-07-06T21:47:44.954907Z",
+    "updated_at": "2024-07-06T21:47:44.954907Z",
+    "lead_time": 44.917
+  },
+  {
+    "image": "\/data\/upload\/2\/86f1ecf4-35bea5232620eae2392c4ffc2911b0ca.jpg",
+    "id": 175,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 82,
+    "created_at": "2024-07-06T21:49:54.655116Z",
+    "updated_at": "2024-07-06T21:49:54.655116Z",
+    "lead_time": 124.791
+  },
+  {
+    "image": "\/data\/upload\/2\/1f1d821a-e3b5ecefd701b24e06ea0adb38d99ad2.jpg",
+    "id": 176,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Color Palette",
+            "Warm Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Print Type",
+            "Textured"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 83,
+    "created_at": "2024-07-06T21:50:39.379668Z",
+    "updated_at": "2024-07-06T21:50:39.379668Z",
+    "lead_time": 42.346
+  },
+  {
+    "image": "\/data\/upload\/2\/8bdaa165-4885e0063fb5fbeb18f059af7363f7e6.jpg",
+    "id": 177,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 84,
+    "created_at": "2024-07-06T21:56:08.180658Z",
+    "updated_at": "2024-07-06T21:56:08.180658Z",
+    "lead_time": 327.07
+  },
+  {
+    "image": "\/data\/upload\/2\/b383120d-9f70a97e6577f01d1bee6188b8534a5e.jpg",
+    "id": 178,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 85,
+    "created_at": "2024-07-06T21:57:07.153880Z",
+    "updated_at": "2024-07-06T21:57:07.153880Z",
+    "lead_time": 56.965
+  },
+  {
+    "image": "\/data\/upload\/2\/a713bcc6-08ea2b242814db393a308b0108b463c2.jpg",
+    "id": 179,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 86,
+    "created_at": "2024-07-06T21:57:52.855324Z",
+    "updated_at": "2024-07-06T21:57:52.855324Z",
+    "lead_time": 44.546
+  },
+  {
+    "image": "\/data\/upload\/2\/1cdfe9f9-513b81c99588d60b1a71496f3e79f8e2.jpg",
+    "id": 180,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Warm Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 87,
+    "created_at": "2024-07-06T21:59:14.942544Z",
+    "updated_at": "2024-07-06T21:59:14.942544Z",
+    "lead_time": 79.967
+  },
+  {
+    "image": "\/data\/upload\/2\/aaf23338-cd61c23e16d311801077755fb22051dd.jpg",
+    "id": 181,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 88,
+    "created_at": "2024-07-06T22:00:03.052908Z",
+    "updated_at": "2024-07-06T22:00:03.052908Z",
+    "lead_time": 46.058
+  },
+  {
+    "image": "\/data\/upload\/2\/1395503e-6316d53995d9e8f07ebe351d1f8326b0.jpg",
+    "id": 182,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Cloth Type\/Material",
+            "Silk"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "3\/4 Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 89,
+    "created_at": "2024-07-06T22:01:13.730146Z",
+    "updated_at": "2024-07-06T22:01:13.730146Z",
+    "lead_time": 68.98
+  },
+  {
+    "image": "\/data\/upload\/2\/e8fa286c-3b51683d99c9d9bfc50be3d622079b1e.jpg",
+    "id": 183,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 90,
+    "created_at": "2024-07-06T22:02:58.161718Z",
+    "updated_at": "2024-07-06T22:02:58.161718Z",
+    "lead_time": 101.525
+  },
+  {
+    "image": "\/data\/upload\/2\/8b19ef98-029b144a185b052690126dd041472d81.jpg",
+    "id": 184,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Warm Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 91,
+    "created_at": "2024-07-06T22:04:26.686929Z",
+    "updated_at": "2024-07-06T22:04:26.686929Z",
+    "lead_time": 86.493
+  },
+  {
+    "image": "\/data\/upload\/2\/f3a8f159-049308d4f7720109b6a25b94357db6a9.jpg",
+    "id": 186,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Cloth Type\/Material",
+            "Wool"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Textured"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Regular Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 92,
+    "created_at": "2024-07-06T22:06:04.754248Z",
+    "updated_at": "2024-07-06T22:06:04.754248Z",
+    "lead_time": 74.077
+  },
+  {
+    "image": "\/data\/upload\/2\/fc5e3118-50e2b4589ef6057b70bb3a8fb0ff2ffd.jpg",
+    "id": 187,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Sleeveless"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 93,
+    "created_at": "2024-07-06T22:08:28.248876Z",
+    "updated_at": "2024-07-06T22:08:28.248876Z",
+    "lead_time": 141.374
+  },
+  {
+    "image": "\/data\/upload\/2\/4f7d8f57-19b92c8b045266f74323cf1fbb1b7e69.jpg",
+    "id": 189,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 94,
+    "created_at": "2024-07-06T22:09:49.988461Z",
+    "updated_at": "2024-07-06T22:09:49.988461Z",
+    "lead_time": 56.882
+  },
+  {
+    "image": "\/data\/upload\/2\/0330ecc3-e41cd422539228bedfa6e7c3e01502d7.jpg",
+    "id": 190,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Cloth Type\/Material",
+            "Wool"
+          ],
+          [
+            "Color Palette",
+            "Warm Tones"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Textured"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 95,
+    "created_at": "2024-07-06T22:10:54.017806Z",
+    "updated_at": "2024-07-06T22:10:54.017806Z",
+    "lead_time": 62.121
+  },
+  {
+    "image": "\/data\/upload\/2\/d5689a4c-6c891781fa9f5b92f92fc249ac08335a.jpg",
+    "id": 191,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Short Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 96,
+    "created_at": "2024-07-06T22:12:22.257598Z",
+    "updated_at": "2024-07-06T22:12:22.257598Z",
+    "lead_time": 86.425
+  },
+  {
+    "image": "\/data\/upload\/2\/d9ace9f9-62105b7d71fd0cb8a614296181a6f56a.jpg",
+    "id": 192,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Monochrome"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "3\/4 Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 97,
+    "created_at": "2024-07-06T22:14:19.068159Z",
+    "updated_at": "2024-07-06T22:14:19.068159Z",
+    "lead_time": 115.093
+  },
+  {
+    "image": "\/data\/upload\/2\/882ce5ce-db489868c2278b17fa600c5c9d4462fb.jpg",
+    "id": 193,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "Round"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Loose Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 98,
+    "created_at": "2024-07-06T22:16:16.458584Z",
+    "updated_at": "2024-07-06T22:16:16.459896Z",
+    "lead_time": 115.526
+  },
+  {
+    "image": "\/data\/upload\/2\/0aeb4392-04cd9b65e2550057b1c965a99dfb7e41.jpg",
+    "id": 194,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Shirt"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Color Palette",
+            "Neutral Tones"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 99,
+    "created_at": "2024-07-06T22:19:00.013238Z",
+    "updated_at": "2024-07-06T22:19:00.013238Z",
+    "lead_time": 160.403
+  }
+]

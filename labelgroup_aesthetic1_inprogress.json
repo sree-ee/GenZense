@@ -1,0 +1,65 @@
+[
+  {
+    "image": "\/data\/upload\/4\/c01bd7af-253fe7bb5e6c67b453e205afc28ccce0.jpg",
+    "id": 195,
+    "taxonomy": [
+      {
+        "taxonomy": [
+          [
+            "Gender",
+            "Male"
+          ],
+          [
+            "Clothing Item",
+            "Jacket"
+          ],
+          [
+            "Clothing Item",
+            "Boots"
+          ],
+          [
+            "Clothing Item",
+            "Pants"
+          ],
+          [
+            "Cloth Type\/Material",
+            "Leather"
+          ],
+          [
+            "Color Palette",
+            "Black"
+          ],
+          [
+            "Print Type",
+            "Solid"
+          ],
+          [
+            "Neckline Type",
+            "V-Neck"
+          ],
+          [
+            "Neckline Type",
+            "Collar"
+          ],
+          [
+            "Sleeve Type",
+            "Long Sleeve"
+          ],
+          [
+            "Fit Type",
+            "Relaxed Fit"
+          ],
+          [
+            "Length",
+            "Maxi"
+          ]
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 100,
+    "created_at": "2024-07-07T21:46:39.314513Z",
+    "updated_at": "2024-07-07T21:46:39.314513Z",
+    "lead_time": 68.384
+  }
+]
